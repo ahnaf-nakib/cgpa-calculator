@@ -1,5 +1,5 @@
 # CGPA Calculator
-
+https://cgpacalculator69.netlify.app/
 A simple and professional CGPA (Cumulative Grade Point Average) calculator web application built with HTML, Tailwind CSS, and JavaScript. This tool allows students to calculate their overall CGPA by inputting semester-wise GPA and credit hours.
 
 ## Features

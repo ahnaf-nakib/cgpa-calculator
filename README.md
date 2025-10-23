@@ -13,7 +13,7 @@ A simple and professional CGPA (Cumulative Grade Point Average) calculator web a
 
 ## Demo
 
-[Live Demo on Netlify]([(https://cgpacalculator69.netlify.app/)) 
+[Live Demo on Netlify]([(https://cgpacalculator69.netlify.app/)]) 
 
 ## Usage
 
